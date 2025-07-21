@@ -40,8 +40,7 @@
 
 ## 🧠 Currently Learning
 
-- 📊 AI + ML + Data-Driven Forecasting
-- ☁️ Cloud + Edge + HPC for Real-Time AI
+- 📊 Java
 - 🔒 Cybersecurity & DevOps Concepts
 
 ---
