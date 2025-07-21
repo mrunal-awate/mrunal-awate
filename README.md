@@ -7,7 +7,7 @@
 
 <p align="center">
   🎓 Final Year Computer Engineering Student (SPPU) <br>
-  💻 Full-Stack & AI Developer | 📦 Cloud, Edge & HPC Enthusiast <br>
+  💻 Full-Stack & AI Developer <br>
   🚀 Building real-world solutions with React, Node.js, Python, and AI
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,java,tailwind,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,python,java,tailwind,git,github,vscode)
 
 ---
 
