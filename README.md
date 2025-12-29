@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Mrunal+Awate;Computer+Engineer+%7C+Full-Stack+Developer;Let's+Build+Awesome+Things!&center=true&width=1000&height=50" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!+I'm+Mrunal+Awate;Computer+Engineer+%7C+Full-Stack+Developer;Let's+Build+Awesome+Things!&center=true&width=1000&height=50" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Mrunal Awate</h1>
