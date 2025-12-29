@@ -32,9 +32,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunal-awate&show_icons=true&theme=radical&cache_seconds=1800">
-  <img src="https://streak-stats.demolab.com?user=mrunal-awate&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrunal-awate&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=mrunal-awate&theme=radical" />
 </p>
+
 
 ---
 
