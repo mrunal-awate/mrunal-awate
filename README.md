@@ -31,10 +31,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrunal-awate&show_icons=true&theme=radical&cache_seconds=1800" />
   <img src="https://streak-stats.demolab.com?user=mrunal-awate&theme=radical" />
-</p> 
+</p>  -->
 
 
 <!-- <p align="center">
@@ -48,14 +48,14 @@
 </p>    -->
 
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrunal-awate&show_icons=true&theme=radical" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=mrunal-awate&theme=radical" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunal-awate&theme=react-dark&hide_border=true" />
-</p> -->
+</p> 
 
 
 ---
