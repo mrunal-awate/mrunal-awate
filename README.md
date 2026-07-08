@@ -39,10 +39,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mrunal-awate&show_icons=true&theme=radical&cache_seconds=1800" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunal-awate&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
-
   <img src="https://streak-stats.demolab.com?user=mrunal-awate&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrunal-awate&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true" />
 </p>
 
 ---
