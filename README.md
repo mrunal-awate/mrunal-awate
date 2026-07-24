@@ -22,7 +22,7 @@
 ## 🔥 Featured Projects
 
 - 🧠 [**Smart Reader**](https://github.com/mrunal-awate/Smart-Reader) – OCR + TTS tool to assist visually impaired users using Flask + gTTS
-- 🧾 [**StockPulse**](https://github.com/mrunal-awate/stockpulse) – AI-powered Inventory Management System with React, Express, MongoDB, jsPDF
+- 🧾 [**StockPulse**](https://github.com/mrunal-awate/stockpulse-inventory-system) – AI-powered Inventory Management System with React, Express, MongoDB, jsPDF
 - 🌐 [**Alumni Connect**](https://github.com/mrunal-awate/alumni-connect-react) – Alumni networking portal for official college use with login, profiles, and community features
 
 > 🔗 Explore more on my [GitHub Repositories →](https://github.com/mrunal-awate?tab=repositories)
